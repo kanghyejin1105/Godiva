@@ -1,0 +1,189 @@
+@charset "UTF-8";
+
+/* -----메인배너--------------- */
+#section .main .banner>li:first-child{
+  background-image:url(images/bannernew.png)
+}
+#section .main .banner>li:nth-child(2){
+  background-image:url(images/banner1.png)
+}
+#section .main .banner>li:last-child{
+  background-image:url(images/banner3.png)
+}
+/* --------메뉴 이미지--------------------- */
+#section .menu .menu_wrap .menu_conts .menu_best .m_con>li:first-child .m_item{
+  background-image: url(images/best1.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_best .m_con>li:nth-child(2) .m_item{
+  background-image: url(images/best22.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_best .m_con>li:nth-child(3) .m_item{
+  background-image: url(images/best3.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_best .m_con>li:nth-child(4) .m_item{
+  background-image: url(images/best4.jpg);
+}
+
+#section .menu .menu_wrap .menu_conts .menu_new .m_con>li:nth-child(1) .m_item{
+  background-image: url(images/new1.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_new .m_con>li:nth-child(2) .m_item{
+  background-image: url(images/new2.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_new .m_con>li:nth-child(3) .m_item{
+  background-image: url(images/new3.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_new .m_con>li:nth-child(4) .m_item{
+  background-image: url(images/new4.jpg);
+}
+
+#section .menu .menu_wrap .menu_conts .menu_choco .m_con>li:nth-child(1) .m_item{
+  background-image: url(images/choco1.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_choco .m_con>li:nth-child(2) .m_item{
+  background-image: url(images/choco2.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_choco .m_con>li:nth-child(3) .m_item{
+  background-image: url(images/choco3.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_choco .m_con>li:nth-child(4) .m_item{
+  background-image: url(images/choco4.jpg);
+}
+
+#section .menu .menu_wrap .menu_conts .menu_cake .m_con>li:nth-child(1) .m_item{
+  background-image: url(images/cake1.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_cake .m_con>li:nth-child(2) .m_item{
+  background-image: url(images/cake2.jpg);
+}
+
+#section .menu .menu_wrap .menu_conts .menu_pearl .m_con>li:nth-child(1) .m_item{
+  background-image: url(images/pearlscapu.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_pearl .m_con>li:nth-child(2) .m_item{
+  background-image: url(images/pearlsdark.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_pearl .m_con>li:nth-child(3) .m_item{
+  background-image: url(images/pearlsmilk.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_pearl .m_con>li:nth-child(4) .m_item{
+  background-image: url(images/pearlsmint.jpg);
+}
+
+#section .menu .menu_wrap .menu_conts .menu_biscuit .m_con>li:nth-child(1) .m_item{
+  background-image: url(images/bis1.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_biscuit .m_con>li:nth-child(2) .m_item{
+  background-image: url(images/bis2.jpg);
+}
+#section .menu .menu_wrap .menu_conts .menu_biscuit .m_con>li:nth-child(3) .m_item{
+  background-image: url(images/best22.jpg);
+}
+/* --------베이커리-------------------- */
+
+#section .bakery .b_conts>li:first-child .b_item{
+  background-image: url(images/bbang\ \(1\).png);
+}
+#section .bakery .b_conts>li:nth-child(2) .b_item{
+  background-image: url(images/bbang\ \(2\).png);
+}
+#section .bakery .b_conts>li:nth-child(3) .b_item{
+  background-image: url(images/bbang\ \(3\).png);
+}
+#section .bakery .b_conts>li:nth-child(4) .b_item{
+  background-image: url(images/bbang\ \(4\).png);
+}
+
+/* ---스테이지--------------------- */
+#section .stage .s_conts .course>li:nth-child(1) .c_img{
+  background-image: url(images/stage\ \(2\).png);
+}
+#section .stage .s_conts .course>li:nth-child(2) .c_img{
+  background-image: url(images/stageby\ \(1\).png);
+}
+#section .stage .s_conts .course>li:nth-child(3) .c_img{
+  background-image: url(images/stageby\ \(2\).png);
+}
+#section .stage .s_conts .course>li:nth-child(1) .c_img:hover{
+  background-image: url(images/stageafter\ \(2\).png);
+}
+#section .stage .s_conts .course>li:nth-child(2) .c_img:hover{
+  background-image: url(images/stageafter\ \(3\).png);
+}
+#section .stage .s_conts .course>li:nth-child(3) .c_img:hover{
+  background-image: url(images/stageafter\ \(1\).png);
+}
+
+
+/* -------------------인스타----------------------- */
+
+#section .insta .ins_box .ins_left .left_conts .left_1{
+  background-image: url(images/insta.jpg)
+}
+#section .insta .ins_box .ins_left .left_conts .left_2{
+  background-image: url(images/insta_l1.jpg);
+}
+#section .insta .ins_box .ins_left .left_conts .left_3{
+  background-image: url(images/insta\ \(2\).jpg);
+}
+#section .insta .ins_box .ins_left .left_conts .left_4{
+  background-image: url(images/isnta3.png);
+}
+#section .insta .ins_box .ins_left .left_conts .left_5{
+  background-image: url(images/autumn.jpg);
+}
+#section .insta .ins_box .ins_left .left_conts .left_6{
+  background-image: url(images/rabbit.jpg);
+}
+
+#section .insta .ins_box .ins_right .right_conts .right_1{
+  background-image: url(images/instar.jpg)
+}
+#section .insta .ins_box .ins_right .right_conts .right_2{
+  background-image: url(images/instar2.png)
+}
+#section .insta .ins_box .ins_right .right_conts .right_3{
+  background-image: url(images/instar3.jpg)
+}
+#section .insta .ins_box .ins_right .right_conts .right_4{
+  background-image: url(images/instar4.jpg)
+}
+#section .insta .ins_box .ins_right .right_conts .right_5{
+  background-image: url(images/insss.jpg)
+}
+#section .insta .ins_box .ins_right .right_conts .right_6{
+  background-image: url(images/inssss.jpg)
+}
+
+#footer .f_top .f_gnb>li:last-child .f_sub>li:nth-child(1){
+  background-image: url(images/icon-footer-facebook.png);
+}
+#footer .f_top .f_gnb>li:last-child .f_sub>li:nth-child(2){
+  background-image: url(images/icon-footer-instagram.png);
+}
+#footer .f_top .f_gnb>li:last-child .f_sub>li:nth-child(3){
+  background-image: url(images/icon-footer-kakao.png);
+}
+#footer .f_top .f_gnb>li:last-child .f_sub>li:nth-child(4){
+  background-image: url(images/icon-footer-youtube.png);
+}
+
+/* ---------------------인스타 모바일----------------------- */
+#section .insta_mob .ins_story>li:nth-child(1){
+  background-image: url(images/insta_l1.jpg)
+}
+#section .insta_mob .ins_story>li:nth-child(2){
+  background-image: url(images/insta\ \(2\).jpg)
+}
+#section .insta_mob .ins_story>li:nth-child(3){
+  background-image: url(images/autumn.jpg)
+}
+#section .insta_mob .ins_story>li:nth-child(4){
+  background-image: url(images/instar2.png)
+}
+#section .insta_mob .ins_story>li:nth-child(5){
+  background-image: url(images/instar3.jpg)
+}
+#section .insta_mob .ins_story>li:nth-child(6){
+  background-image: url(images/inssss.jpg)
+}
