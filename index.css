@@ -37,7 +37,7 @@ font-style: italic; */
   background-size: cover;
   display: none;
   position: absolute;
-  top:0px; left: 0px;
+  top:0px; left: 0px;;
   /* border: 1px solid red; */
 }
 #section .main .banner>li:first-child{
@@ -48,10 +48,12 @@ font-style: italic; */
   position: absolute;
   top: 35%;left: 8%;
   overflow: hidden;
+  /* border: 1px solid red; */
 }
 #section .main .banner .bn_conts{
   width: 100%;
-  position: relative ; top: 0px;
+  position: relative; 
+  top: 0px;
   transition: all 0.1s;
 }
 
@@ -783,7 +785,7 @@ font-style: italic; */
 }
   #section .main .banner>li{
     background-size: contain;
-    height: 50vh;
+    height: 40vh;
 }
   #section .main .banner .bn_conts .bn_title{
     font-size: 12pt;

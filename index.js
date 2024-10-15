@@ -10,10 +10,10 @@ $(document).ready(function(){
   //     i++;
   //   }
   //     asd()
-  // },4000);
+  // },3000);
 
   function asd(){
-    $(".bn_conts").stop().animate({"top":"-200px"});
+    $(".bn_conts").stop().animate({"top":"-300px"});
     $(".nav>li").removeClass("on");
     $(".nav>li").eq(i).addClass("on");
     $(".banner>li").stop().fadeOut();
@@ -52,7 +52,7 @@ $(document).ready(function(){
 
   // 베이커리
   $(".b_conts>li").mouseover(function(){
-    $(this).children().stop().animate({"bottom":"130px"});
+    $(this).children().stop().animate({"bottom":"150px"});
     $(this).find("p").addClass("slr");
   });
   $(".b_conts>li").mouseleave(function(){

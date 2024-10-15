@@ -138,6 +138,7 @@
   #header .header_wrap .hd_logo{
     width: 100%;
     margin: 0 auto;
+    cursor: pointer;
   }
   #header .gnb_wrap{
     display: none;
@@ -184,9 +185,9 @@
     padding:10px;
     box-sizing: border-box;
   }
-  #header .burger .h_wrap .h_gnb>li:nth-child(2) .h_sub{
+  /* #header .burger .h_wrap .h_gnb>li:nth-child(2) .h_sub{
     display: block;
-  }
+  } */
   #header .burger .h_wrap .h_gnb>li .h_sub>li{
     border-bottom: 0.4px solid #4d3e3b28;
   }
